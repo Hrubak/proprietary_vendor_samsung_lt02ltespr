@@ -43,8 +43,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/lt02ltespr/proprietary/etc/firmware/a300_pfp.fw:system/etc/firmware/a300_pfp.fw \
     vendor/samsung/lt02ltespr/proprietary/etc/firmware/a300_pm4.fw:system/etc/firmware/a300_pm4.fw \
     vendor/samsung/lt02ltespr/proprietary/etc/firmware/vidc_1080p.fw:system/etc/firmware/vidc_1080p.fw \
-    vendor/samsung/lt02ltespr/proprietary/etc/firmware/wcd9310/wcd9310_anc.bin:system/etc/firmware/wcd9310/wcd9310_anc.bin \
-    vendor/samsung/lt02ltespr/proprietary/etc/firmware/wcd9310/wcd9310_mbhc.bin:system/etc/firmware/wcd9310/wcd9310_mbhc.bin \
     vendor/samsung/lt02ltespr/proprietary/etc/firmware/wlan/prima/WCNSS_cfg.dat:system/etc/firmware/wlan/prima/WCNSS_cfg.dat \
     vendor/samsung/lt02ltespr/proprietary/etc/firmware/wlan/prima/WCNSS_qcom_cfg.ini:system/etc/firmware/wlan/prima/WCNSS_qcom_cfg.ini \
     vendor/samsung/lt02ltespr/proprietary/etc/firmware/wlan/prima/WCNSS_qcom_wlan_nv_noFEM.bin:system/etc/firmware/wlan/prima/WCNSS_qcom_wlan_nv_noFEM.bin \
